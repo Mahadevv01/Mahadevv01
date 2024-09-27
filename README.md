@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **mohitsharma110104@gmail.com**
 - Check out my portfolio: [Mohit Sharma's Portfolio](https://mahadevv01.github.io/MohitSharma.github.io/)
+- ![Preview](./assets/previewfile_2217383700.gif)
+
 
 
 <h3 align="left">Connect with me:</h3>
