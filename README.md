@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-sharma-34a711252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-sharma-34a711252/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohit sharma" target="blank"><img align="center" src="![previewfile_2217383700](https://github.com/user-attachments/assets/81065eea-0735-47df-bf2d-52a9d2be0eb0)
-" alt="mohit sharma" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mohit sharma" target="blank">
 <a href="https://kaggle.com/sharmax01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharmax01" height="30" width="40" /></a>
 <a href="https://instagram.com/_mohitxs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohitxs_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shiva_1101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiva_1101" height="30" width="40" /></a>
